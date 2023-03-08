@@ -11,7 +11,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+```bash
 pyton main.py      or run the start.bat file.
-
-
-
+```

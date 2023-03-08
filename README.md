@@ -5,7 +5,7 @@ Beron is a skidded discord boost tool and therfor i decided to crack it and leak
 Beron was made by 
 
 ```
-!SM#4611 [DISCORD ID: 639173770426449940] (owner)
+!SM#4611 [DISCORD ID: 639173770426449940] (owner / dev)
 
 island#8934 [DISCORD ID: 964209549064159252] (admin / dev)
 ```
